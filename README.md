@@ -12,7 +12,7 @@ Repo for VK Internship Data Science task.
 2. Get final ```submission.csv``` (it has already been generated in the folder ```output``` for fast reference).
 
 Other files description:
-* ```classifier.cbm``` - Trained CatBoost model
+* ```classifier.cbm``` - Trained CatBoost model (regressor, not classifier)
 * ```do_eda.py``` - Script used in ```generate_submission.py``` for given datasets preparation
 * ```datasets``` - Folder containing datasets
 * ```cols_to-drop.pkl``` - Columns to-be-dropped causing multicollinearity (dict).
