@@ -1,5 +1,5 @@
 # 🏢 VK Internship March '24
-EDA &amp; CatBoost &amp; Optuna for giving the most accurate scores for the object success prediction task.
+EDA (incl. KNN) &amp; CatBoost &amp; Optuna for giving the most accurate scores for the object success prediction task.
 
 Repo for VK Internship Data Science task.
 
