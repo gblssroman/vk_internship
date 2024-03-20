@@ -3,6 +3,8 @@ EDA &amp; CatBoost &amp; Optuna for giving the most accurate scores for the obje
 
 Repo for VK Internship Data Science task.
 
+```.zip``` archive included.
+
 **Instruction:**
 
 1. Install ```requirements.txt``` via ```pip install -r requirements.txt``` (no junk :))
