@@ -1,4 +1,4 @@
-import pandas as pdrena
+import pandas as pd
 from catboost import CatBoostRegressor
 from do_eda import prepare_data
 
